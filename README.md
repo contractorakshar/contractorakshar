@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 <img alt="MongoDb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
 <img src="https://github-readme-stats.vercel.app/api?username=contractorakshar&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=midnight-purple%22%20alt=%22Akshar%27s%20GitHub%20Stats"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=contractorakshar&layout=compact)](https://github.com/sujalshah3234/github-readme-stats)
