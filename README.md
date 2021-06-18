@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=contractorakshar&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=midnight-purple%22%20alt=%22Akshar%27s%20GitHub%20Stats"/>
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=contractorakshar)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=contractorakshar)
