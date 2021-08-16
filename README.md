@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=contractorakshar&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=midnight-purple%22%20alt=%22Akshar%27s%20GitHub%20Stats"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=contractorakshar"/>
-
+<img src="https://camo.githubusercontent.com/87e91246cf9b7156b56893db088d084692e219f2bf03ac61cb68eaafdde3e57b/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d73756a616c7368616833323334" alt="Github Streak Stats" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=contractorakshar" style="max-width:100%;">
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
