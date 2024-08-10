@@ -25,11 +25,12 @@ Here are some ideas to get you started:
 ### Backends:
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"> <img alt="expressJs" src="https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=for-the-badge">
 
-
-
 ### DBs:
-
 <img alt="MongoDb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+
+### Language
+<img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge">
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=contractorakshar&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=midnight-purple%22%20alt=%22Akshar%27s%20GitHub%20Stats"/>
 
