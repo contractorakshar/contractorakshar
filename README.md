@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### Frameworks:
 
-<img alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />  <img alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /> 
+<img alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />  <img alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /> <img alt="reacr" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge" /> 
 
 ### Backends:
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"> <img alt="expressJs" src="https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=for-the-badge">
