@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 ### Backends:
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white">
+![Express Badge](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=for-the-badge)
 
 
 ### DBs:
